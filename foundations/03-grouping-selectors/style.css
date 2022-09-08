@@ -1,0 +1,14 @@
+.btn {
+    border-color: grey;
+    border-width: 2px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blk-btn {
+    background-color: black;
+    color: white;
+}
+
+.yellow-btn {
+    background-color: yellow;
+}
