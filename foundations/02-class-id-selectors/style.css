@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana;
+}
+
+#num-2 {
+    color: blue;
+    font-size: 30px;
+}
+
+#num-4 {
+    font-size: 20px;
+    background-color: rgba(57, 211, 57, 0.678);
+    font-weight: bold;
+}
+
+.p-main {
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.p-main.p-sub {
+    font-size: 20px;
+}
