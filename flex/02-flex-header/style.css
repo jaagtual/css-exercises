@@ -35,13 +35,13 @@ a {
 
 .left-links,
 .right-links {
-  flex-grow: 1;
+  flex-grow: 0;
   flex-shrink: 1;
   flex-basis: 0%;
 }
 
 .logo {
-  flex-grow: 3;
+  flex-grow: 0;
   flex-shrink: 1;
   flex-basis: 0;
   text-align: center;
