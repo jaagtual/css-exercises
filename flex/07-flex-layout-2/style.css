@@ -10,6 +10,10 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  flex: 0 0 0;
+  padding: 10px 16px;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .content {
