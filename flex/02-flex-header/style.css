@@ -45,7 +45,6 @@ a {
   flex-shrink: 1;
   flex-basis: 0;
   text-align: center;
-  outline: dashed 2px black;
 }
 
 li {
