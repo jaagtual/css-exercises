@@ -58,6 +58,10 @@
   text-transform: uppercase;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .article {
   background-color: #bccbde;
 }
